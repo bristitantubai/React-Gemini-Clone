@@ -1,12 +1,34 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Introduction
+This is a Gemini Clone AI App, built using React.js.
+The app provides an interactive chat experience where users can ask questions and receive AI-powered responses in real time.
+It is designed to mimic the behavior of modern conversational AI (like Google Gemini or ChatGPT) while focusing on a clean UI/UX, smooth interactions, and scalability
 
-Currently, two official plugins are available:
+# Features
+1. AI Chat Interface – Users can interact with the AI in a chat-like environment.
+2. Modern UI/UX – Clean and responsive design with React & Tailwind CSS.
+3. Real-time Responses – Fast and interactive message rendering.
+4. Chat History – Stores recent chats for easy access.
+5. Dark/Light Mode – Switch themes for better user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tech Stack
+1. HTML5
+2. CSS3
+3. JavaScript (ES6+)
+4. React.js
+5. Tailwind CSS
+6. API Integration
+7. Responsive Design (Viewport Meta Tag)
+8. Custom Utility Functions (Regex for text formatting)
+9. React Markdown (for rendering Markdown responses)
+10. React Syntax Highlighter (Prism Theme) (for code highlighting)
 
-## Expanding the ESLint configuration
+# Responsiveness
+This app is designed with a mobile-first approach and is fully responsive across all devices. Using Tailwind CSS and the viewport meta tag, the layout automatically adapts to mobile, tablet, and desktop screens, providing a seamless user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Purpose
+This project is a modern AI chat app inspired by Gemini, built with React.js. It delivers a smooth, responsive, and interactive chat experience, with Markdown support and code highlighting for enhanced readability.
+
+# Preview
+
