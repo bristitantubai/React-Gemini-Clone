@@ -31,4 +31,4 @@ This app is designed with a mobile-first approach and is fully responsive across
 This project is a modern AI chat app inspired by Gemini, built with React.js. It delivers a smooth, responsive, and interactive chat experience, with Markdown support and code highlighting for enhanced readability.
 
 # Preview
-<img src="
+<img src="Screenshot 2025-09-07 195325.png" alt="">
